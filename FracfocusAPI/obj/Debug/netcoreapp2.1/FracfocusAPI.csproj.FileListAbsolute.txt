@@ -1,0 +1,14 @@
+D:\Repos\FracfocusAPI\FracfocusAPI\bin\Debug\netcoreapp2.1\FracfocusAPI.deps.json
+D:\Repos\FracfocusAPI\FracfocusAPI\bin\Debug\netcoreapp2.1\FracfocusAPI.runtimeconfig.json
+D:\Repos\FracfocusAPI\FracfocusAPI\bin\Debug\netcoreapp2.1\FracfocusAPI.runtimeconfig.dev.json
+D:\Repos\FracfocusAPI\FracfocusAPI\bin\Debug\netcoreapp2.1\FracfocusAPI.dll
+D:\Repos\FracfocusAPI\FracfocusAPI\bin\Debug\netcoreapp2.1\FracfocusAPI.pdb
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.csprojAssemblyReference.cache
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.csproj.CoreCompileInputs.cache
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.RazorAssemblyInfo.cache
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.RazorAssemblyInfo.cs
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.AssemblyInfoInputs.cache
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.AssemblyInfo.cs
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.RazorTargetAssemblyInfo.cache
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.dll
+D:\Repos\FracfocusAPI\FracfocusAPI\obj\Debug\netcoreapp2.1\FracfocusAPI.pdb

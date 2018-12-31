@@ -1,0 +1,33 @@
+2018-12-28 11:10:44.5400 INFO Returned all well info from database.
+2018-12-28 11:16:53.2523 INFO Returned all well info from database.
+2018-12-28 11:17:24.1915 INFO Returned all well info from database.
+2018-12-28 11:22:11.7679 INFO Returned all well info from database.
+2018-12-28 11:27:39.5480 INFO Returned all well info from database.
+2018-12-28 14:59:56.3200 INFO Returned all well info from database.
+2018-12-28 15:02:55.5366 INFO Returned all well info from database.
+2018-12-28 15:06:06.8451 INFO Returned all well info from database.
+2018-12-28 15:07:38.1484 INFO Returned all well info from database.
+2018-12-28 15:09:51.8791 INFO Returned all well info from database.
+2018-12-28 15:10:27.3768 INFO Returned all well info from database.
+2018-12-28 15:10:34.7737 INFO Returned all well info from database.
+2018-12-28 15:16:42.5970 INFO Returned all well info from database.
+2018-12-28 15:16:42.9265 INFO Returned owner with api number: favicon.ico
+2018-12-28 15:16:51.4324 INFO Returned owner with api number: 42013350250000
+2018-12-28 15:16:51.5155 INFO Returned owner with api number: favicon.ico
+2018-12-28 15:17:03.2695 INFO Returned owner with api number: 42013350250000
+2018-12-28 15:23:01.5603 INFO Returned owner with api number: 4201335025000
+2018-12-28 15:23:52.1661 INFO Returned owner with api number: 4201335025000
+2018-12-28 15:24:06.2201 INFO Returned owner with api number: favicon.ico
+2018-12-28 15:24:14.6756 INFO Returned owner with api number: 4201
+2018-12-28 15:24:15.6685 INFO Returned owner with api number: favicon.ico
+2018-12-28 15:25:10.3396 INFO Returned owner with api number: favicon.ico
+2018-12-28 15:27:21.7553 INFO Returned all well info from database.
+2018-12-28 15:27:26.0941 ERROR Well info with api number: favicon.ico, hasn't been found in db.
+2018-12-28 15:27:30.1901 INFO Returned owner with api number: 42013350250000
+2018-12-28 15:27:33.1157 ERROR Well info with api number: 4201335025000, hasn't been found in db.
+2018-12-28 15:27:33.1157 ERROR Well info with api number: index.html, hasn't been found in db.
+2018-12-28 15:27:41.4902 ERROR Well info with api number: 4201335025000, hasn't been found in db.
+2018-12-28 15:27:41.5008 ERROR Well info with api number: index.html, hasn't been found in db.
+2018-12-28 16:00:58.0651 INFO Returned all well info from database.
+2018-12-28 16:01:00.4517 ERROR Well info with api number: favicon.ico, hasn't been found in db.
+2018-12-28 16:01:22.0134 INFO Returned owner with api number: 42013356090000

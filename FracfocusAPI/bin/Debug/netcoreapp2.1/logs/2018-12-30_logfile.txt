@@ -1,0 +1,19 @@
+2018-12-30 01:57:58.1078 INFO Returned all well info from database.
+2018-12-30 01:57:58.5290 ERROR Well info with api number: favicon.ico, hasn't been found in db.
+2018-12-30 01:58:37.8084 INFO Returned all well info from database.
+2018-12-30 01:59:26.7403 INFO Returned all well info from database.
+2018-12-30 01:59:28.5861 INFO Returned all well info from database.
+2018-12-30 02:01:10.0259 INFO Returned all well info from database.
+2018-12-30 02:01:31.4634 INFO Returned all well info from database.
+2018-12-30 02:03:28.8359 INFO Returned all well info from database.
+2018-12-30 02:04:06.2510 INFO Returned all well info from database.
+2018-12-30 02:06:24.4821 INFO Returned all well info from database.
+2018-12-30 02:06:30.4559 INFO Returned all well info from database.
+2018-12-30 02:07:07.2027 INFO Returned all well info from database.
+2018-12-30 02:07:14.4214 INFO Returned all well info from database.
+2018-12-30 02:08:10.2257 INFO Returned all well info from database.
+2018-12-30 02:08:18.9536 INFO Returned all well info from database.
+2018-12-30 02:08:25.1071 INFO Returned all well info from database.
+2018-12-30 02:08:43.4995 INFO Returned all well info from database.
+2018-12-30 02:09:16.7170 INFO Returned all well info from database.
+2018-12-30 02:09:22.7868 INFO Returned all well info from database.
